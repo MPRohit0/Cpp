@@ -1,1 +1,3 @@
-# C-
+# C++
+
+learning c++ for DSA.
